@@ -7,11 +7,11 @@ homepage: https://github.com/nitishk72/Youtube_API
 
 environment:
   sdk: ">=2.0.0-dev.61.0 <3.0.0"
-  
+
 dependencies:
   flutter:
     sdk: flutter
-  http: "^0.12.0"
+  http: "^0.11.3+14"
 
 flutter:
   plugin:
